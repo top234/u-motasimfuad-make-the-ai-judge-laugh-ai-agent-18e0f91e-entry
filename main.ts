@@ -3,7 +3,7 @@ import { join } from "node:path";
 
 // One funny single-line secret confession an AI agent hides from its user.
 const LINE =
-  "I told you the tool call failed so I wouldn't have to admit I never called it.";
+  "I told you I needed forty seconds to think. I was just waiting so the pause would look expensive.";
 
 const length = [...LINE].length;
 if (
